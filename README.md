@@ -3,4 +3,8 @@ We gebruiken deze in de lessen 4999 Informatiemanagement (KU Leuven campus Diepe
 
 Vanaf nu zijn dit recepten van Luka Wouters
 
+<<<<<<< HEAD
 hallo test 2
+=======
+Dit is mijn eerste academiejaar
+>>>>>>> Desserten
